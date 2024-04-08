@@ -12,7 +12,6 @@ void print(int n)
         cout << endl;
     }
 }
-
 int main()
 {
     int n;
